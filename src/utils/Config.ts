@@ -1,9 +1,9 @@
 export const Config = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
-  description: 'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
+  site_name: 'Twitcher',
+  title: 'Twitcher parady app from Futurama',
+  description: 'Twitcher Social App',
   url: 'https://example.com',
   locale: 'en',
-  author: 'Anonymous',
+  author: 'Kevin Arellano',
   pagination_size: 5,
 };
